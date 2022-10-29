@@ -25,6 +25,8 @@ Deep Learning: Deep Neural Networks, Convolutional Neural Networks (CNN), Recurr
 
 Cloud: GCP, AWS Sagemaker
 
+Please find a detailed desciprtion of my projects here - https://www.kaggle.com/code/shrutikunapuli/top-10-projects
+
 Feel free to reach out to me at: shruti.kp0507@gmail.com
 <!---
 shruti-visala1/shruti-visala1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
