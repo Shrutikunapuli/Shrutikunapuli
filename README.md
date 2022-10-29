@@ -9,9 +9,9 @@ I'm passionate about Machine Learning and Data Science. With the development of 
 **About Me**
 
 I'm a Graduate student at the Northeastern University majoring in Data Science. 
-With 3 years of experience as in solving real-world business problems across different Domains using my technical and statistical knowledge. Experienced in handling end to end data pipelines by enabling automation and neutralizing bottlenecks.
+With 3 years of experience as in solving real-world business problems across different Domains using my technical and statistical knowledge. Experienced in handling end to end data pipelines by enabling automation and neutralizing bottlenecks. I worked on projects ranging from pharmaceutical, Construction, retail, manufacturing and Stock market Forecasting.
 
-Furthermore, I completed courses such as Machine Learning Certification by Stanford University and Deep Learning Specialization by Andrew Ng. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries.
+I have completed courses such as Machine Learning Certification by Stanford University and Deep Learning Specialization by Andrew Ng
 ##
 
 **My Skills**
